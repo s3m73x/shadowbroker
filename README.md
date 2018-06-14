@@ -2,12 +2,12 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 
 The following files were deleted after this repository was reported:
 
-**/swift/00559_0_ENSBDVPN5-02AUG2013
-**/swift/00560_0_ENSBDVPN6-02AUG2013
-**/swift/00697_0_ENSBDVPN5-23AUG2013
-**/swift/00702_0_ENSBDVPN6-23AUG2013
-**/swift/Eastnets_Huge_Map_05_13_2010.vsd
-**/swift/ENSB%20UAE%20NW%20Topology%20V2.0.1339670413.vsd
+* /swift/00559_0_ENSBDVPN5-02AUG2013
+* /swift/00560_0_ENSBDVPN6-02AUG2013
+* /swift/00697_0_ENSBDVPN5-23AUG2013
+* /swift/00702_0_ENSBDVPN6-23AUG2013
+* /swift/Eastnets_Huge_Map_05_13_2010.vsd
+* /swift/ENSB%20UAE%20NW%20Topology%20V2.0.1339670413.vsd
 
 So if you want them use google or go in one of the forks...
 
