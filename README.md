@@ -1,6 +1,7 @@
 https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
+http://archive.is/https://github.com/misterch0c/shadowbroker
 
-The following files were deleted after this repository was reported:
+The following files were deleted after this repository was reported because it contained "sensitive data":
 
 * /swift/00559_0_ENSBDVPN5-02AUG2013
 * /swift/00560_0_ENSBDVPN6-02AUG2013
@@ -8,8 +9,27 @@ The following files were deleted after this repository was reported:
 * /swift/00702_0_ENSBDVPN6-23AUG2013
 * /swift/Eastnets_Huge_Map_05_13_2010.vsd
 * /swift/ENSB%20UAE%20NW%20Topology%20V2.0.1339670413.vsd
+* swift/00503_0_254.242_2013mar02
+* swift/00546_0_ensbdasa-09aug2013
+* swift/00554_0_ensbdpix4-09aug2013
+* swift/00555_0_ensbdrtr1-2013aug09
+* swift/00566_2_FW1-Configuration.txt
+* swift/00566_3_SW1-Configuration.txt
+* swift/00566_4_SW2-Configuration.txt
+* swift/00708_0_ensbdasa1-31aug2013 
+* swift/00710_0_ensbdfw1-2013sep06
+* swift/00711_0_ensbdfw3-2013sep06
+* swift/00713_0_ensbdfw4-2013sep06
+* swift/00715_0_ensbdfw5-2013sep06
+* swift/00720_0_ensbdpix3-31aug2013
+* swift/00725_0_ensbdpix4-31aug2013
+* swift/00727_0_ensbdpix5-31aug2013
+* swift/00729_0_ensbdrtr1-2013sep06
+* swift/DNS%20Zone%20Trans%202013_10_
+* swift/DNS%20Zone%20Trans%202013_10_
+* swift/NOC_firewall_passwords_30May2
 
-So if you want them use google or go in one of the forks...
+
 
 # Exploits
 
