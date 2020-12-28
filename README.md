@@ -1,6 +1,14 @@
 https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 http://archive.is/https://github.com/misterch0c/shadowbroker
 
+theshadowbrokers (60)in #shadowbrokers • 4 years ago
+KEK...last week theshadowbrokers be trying to help peoples. This week theshadowbrokers be thinking fuck peoples. Any other peoples be having same problem? So this week is being about money. TheShadowBrokers showing you cards theshadowbrokers wanting you to be seeing. Sometime peoples not being target audience. Follow the links for new dumps. Windows. Swift. Oddjob. Oh you thought that was it? Some of you peoples is needing reading comprehension.
+
+https://yadi.sk/d/NJqzpqo_3GxZA4
+Password = Reeeeeeeeeeeeeee
+
+theshadowbrokers not wanting going there. Is being too bad nobody deciding to be paying theshadowbrokers for just to shutup and going away. TheShadowBrokers rather being getting drunk with McAfee on desert island with hot babes. Maybe if all suviving WWIII theshadowbrokers be seeing you next week. Who knows what we having next time?
+
 The following files were deleted after this repository was reported because it contained "sensitive data":
 
 * /swift/00559_0_ENSBDVPN5-02AUG2013
